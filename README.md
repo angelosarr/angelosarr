@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angelosarr
-- 👀 I’m interested in science
+- 👀 I’m interested in science (computer science, physics, mathematics...)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something but not yet haha
 - 📫 How to reach me: Facebook: Angelo Sarr (Angelo Aziz Sarr) and Twitter: @angelosarr
