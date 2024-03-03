@@ -1,5 +1,5 @@
 - 👋🏽 Hi, I’m Angelo Sarr
-- 👀 I’m interested in science (computer science, mathematics, physics...)
+- 👀 I’m interested in science and engineering
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: /
 <!---
